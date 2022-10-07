@@ -1,0 +1,36 @@
+.header{
+    width: 100%;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    background-color: beige;
+    text-align: center;
+}
+.allUsers{
+    width: 100%;
+    height: 400px;
+    background-color: rgb(247, 247, 156);
+
+}
+.user{
+    width: 24.7%;
+    height: 150px;
+    height:fit-content;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    background-color: aliceblue;
+    float: left;
+    font-size: 18px;
+    text-align: center;
+    border: 0.5px inset black;
+    border-radius: 5px;   
+}
+.button button{
+    border-radius: 5px; 
+    color: antiquewhite;
+    background-color: black;
+}
+button{
+    border-radius: 5px; 
+    color: antiquewhite;
+    background-color: black;
+}
